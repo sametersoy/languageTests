@@ -12,10 +12,12 @@ await conn.OpenAsync();
 // Retrieve all rows
 await using (var cmd = new NpgsqlCommand("SELECT * FROM products_yedek", conn))
 await using (var reader = await cmd.ExecuteReaderAsync())
-{
+
 while (await reader.ReadAsync())
-    Console.WriteLine(reader.GetString(1));
+{
+    
 }
+    //Console.WriteLine(reader.GetString(1));
 
 
 long endTime = DateTime.Now.Ticks;
