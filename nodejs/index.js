@@ -20,7 +20,7 @@ async function retrieveData() {
         const res = await pool.query("SELECT barcode FROM products_yedek");
 
         res.rows.forEach( (row) => {
-            console.log(row);
+            //console.log(row);
         })
 
         const end_time = new Date();

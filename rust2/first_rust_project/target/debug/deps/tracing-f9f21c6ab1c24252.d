@@ -1,0 +1,13 @@
+c:\languageTests\rust2\first_rust_project\target\debug\deps\tracing-f9f21c6ab1c24252.rmeta: C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs
+
+c:\languageTests\rust2\first_rust_project\target\debug\deps\tracing-f9f21c6ab1c24252.d: C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs
+
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs:
+C:\Users\sMt\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs:
